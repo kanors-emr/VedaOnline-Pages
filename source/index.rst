@@ -12,4 +12,5 @@ Welcome to VedaOnline-Pages
 
    about.rst
    vision.rst
+   news.rst
 

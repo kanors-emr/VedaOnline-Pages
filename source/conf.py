@@ -51,6 +51,9 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+def setup(app):
+    app.add_css_file('css/custom.css')
+
 html_theme_options = {
     # Disable showing the sidebar. Defaults to 'false'
     'nosidebar': True,
@@ -61,3 +64,4 @@ html_theme_options = {
 
 html_show_sourcelink = False
 html_show_copyright = False
+
