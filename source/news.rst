@@ -1,6 +1,8 @@
 .. raw:: html
 
-   <hr/><h4>From the developers</h4><hr/>
+    <div id="horizontal-header">
+    <hr/><h4>From the developers</h4><hr/>
+    </div>
 
    <div id="developer-content">
     <p><strong>Version 247 has been released</strong></p>

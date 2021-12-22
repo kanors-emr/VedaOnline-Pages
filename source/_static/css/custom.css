@@ -31,4 +31,9 @@ hr {
 #developer-content {
     background-color: #c4def5;
     padding: 5px 10px;
+    width: 46%;
+}
+
+#horizontal-header{
+    width: 50%;
 }
