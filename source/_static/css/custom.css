@@ -40,5 +40,5 @@ hr {
 }
 
 .rst-versions.rst-badge{
-    display: none;
+    display: none !important;
 }
