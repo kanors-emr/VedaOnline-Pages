@@ -11,6 +11,11 @@ body {
     min-width: 150px !important;
 }
 
+div.body {
+    min-width: auto;
+    max-width: auto;
+}
+
 h4 {
 
     font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif!important;

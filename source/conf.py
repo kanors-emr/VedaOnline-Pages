@@ -59,7 +59,6 @@ html_theme_options = {
     'nosidebar': True,
     'page_width': 'auto',
     'body_max_width': 'auto',
-    'body_min_width': 'auto',
     'show_powered_by': False
 }
 
