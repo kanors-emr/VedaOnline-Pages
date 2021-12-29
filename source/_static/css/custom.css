@@ -11,3 +11,8 @@ body {
     width: 100%;
     height: 100%
 }
+
+div.body {
+    min-width: inherit;
+    max-width: auto;
+}
