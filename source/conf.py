@@ -52,7 +52,7 @@ html_theme = 'alabaster'
 html_static_path = ['_static/css/']
 
 def setup(app):
-    app.add_css_file('css/custom.css')
+    # app.add_css_file('css/custom.css')
 
 html_theme_options = {
     # Disable showing the sidebar. Defaults to 'false'
