@@ -8,15 +8,7 @@ Veda online
 
 .. topic:: \
 
-23 December 2021
-
-`Version 247.1.3 <https://github.com/kanors-emr/Veda2.0-Installation>`_ has been released.
-
-   * If you are using version 230 or higher, you can use "Backup State" under Model menu. "Restore State" under higher will Re-synchronize all models and import all VD files that were a part of the old version.
-   * **Reports functionality will be available under all license types till 31 Dec 21**.
-   * `ETSAP webinar <https://youtu.be/ri6asoxXcRg>`_ on setting up Report definitions file and using the Reports browser in Veda2.0.
+VO offers the core Veda-TIMES functionality via Internet browsers. `Veda model folders <https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html#architecture>`_ need to
+reside in GitHub to be used under VO.
 
 `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
-
-.. note::
-    `Veda Online (VO) <https://vedaonline.cloud/>`_ is freely available for testing right now.
