@@ -12,3 +12,5 @@ Veda online
    to create a model. Supported functionality: Synchronize (all files only, at this point), Browse, Items view, Run manager, Results, and Reports. </p>
 
    <p> <a href="https://youtube.com/playlist?list=PLED97cPMXPOl1o4f3Xx5QZEBzswd4Watc" target="_blank">VO instructional videos</a> </p>
+   
+   <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/Known%20Issues.html#known-issues" target="_blank">VO Known Issues</a> </p>
