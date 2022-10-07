@@ -15,6 +15,6 @@ need to reside on GitHub to be used under VO. Registered users can submit their 
 to create a model.
 Supported functionality: Synchronize, Browse, Items view, Run manager, Results, and Reports.
 
-   `VO instructional videos <https://youtube.com/playlist?list=PLED97cPMXPOl1o4f3Xx5QZEBzswd4Watc">`_
+   `VO instructional videos <https://youtube.com/playlist?list=PLED97cPMXPOl1o4f3Xx5QZEBzswd4Watc>`_
    
    `VO Known Issues <https://vedaonline-documentation.readthedocs.io/en/latest/pages/Known%20Issues.html#known-issues>`_
