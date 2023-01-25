@@ -15,5 +15,6 @@ Veda online
 
    <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/Known%20Issues.html#known-issues" target="_blank">VO Known Issues</a> </p>
 
-VO can no longer submit runs to the GAMS Engine as all hours allocated under the ETSAP project have been consumed. The only option is to run locally, till we are able to
+.. note::
+   VO can no longer submit runs to the GAMS Engine as all hours allocated under the ETSAP project have been consumed. The only option is to run locally, till we are able to
 create an online option in collaboration with GAMS.
