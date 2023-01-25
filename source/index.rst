@@ -1,5 +1,4 @@
-Veda online
-===========
+
 
 .. Veda news documentation master file, created by
    sphinx-quickstart on Tue Feb 23 11:03:05 2021.
