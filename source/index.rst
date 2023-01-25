@@ -6,7 +6,7 @@
    contain the root `toctree` directive.
 
 .. note::
-   VO can no longer submit runs to the GAMS Engine as all hours allocated under the ETSAP project have been consumed. The only option is to run locally, till we are able to create an online option in collaboration with GAMS.
+   VO can no longer submit runs to the GAMS Engine in Jan 23 as the monthly quota (under the ETSAP project) is exhausted. You can run locally, till we are able to create a stable online option in collaboration with GAMS.
 
    .. raw:: html
 
