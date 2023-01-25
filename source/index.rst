@@ -9,6 +9,10 @@ Veda online
 .. note::
    VO can no longer submit runs to the GAMS Engine as all hours allocated under the ETSAP project have been consumed. The only option is to run locally, till we are able to create an online option in collaboration with GAMS.
 
+   .. raw:: html
+
+      <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to.</a>
+
 .. raw:: html
 
    <p> VO offers the core Veda-TIMES functionality via Internet browsers. <a href="https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html#architecture" target="_blank">Veda model folders</a> need to reside on GitHub to be used under VO. Registered users can submit their GitHub credentials to see a list of all model folders, along with the branches, under their account. Any folder/branch can be selected
