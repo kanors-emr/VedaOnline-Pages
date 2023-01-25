@@ -10,7 +10,7 @@
 
    .. raw:: html
 
-      <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to.</a>
+      <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to run locally with VO.</a>
 
 .. raw:: html
 
