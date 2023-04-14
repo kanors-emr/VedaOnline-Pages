@@ -6,7 +6,11 @@
    contain the root `toctree` directive.
 
 .. note::
-   VO can no longer submit runs to the GAMS Engine in Jan 23 as the monthly quota (under the ETSAP project) is exhausted. You can run locally, till we are able to create a stable online option in collaboration with GAMS.
+   All registered users will be converted to trial by the end of April. You can continue using this platform in this time. Local runs are preferable, but you can run them in the cloud as well.
+
+   .. raw:: html
+
+      <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/introduction.html#user-types-and-pricing" target="_blank">Veda online pricing.</a>
 
    .. raw:: html
 
