@@ -12,13 +12,8 @@
 
    <p> <a href="https://youtube.com/playlist?list=PLED97cPMXPOl1o4f3Xx5QZEBzswd4Watc" target="_blank">VO instructional videos</a> </p>
 
-   <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/Known%20Issues.html#known-issues" target="_blank">VO Known Issues</a> </p>
+   <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/" target="_blank">VO Documentation</a> </p>
 
-.. note::
-   All registered users will be converted to trial by the end of April. You can continue using this platform in this time. Local runs are preferable, but you can run them in the cloud as well.
+   <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/introduction.html#user-types-and-pricing" target="_blank">Veda online pricing.</a>
 
-   .. raw:: html
-
-      <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/introduction.html#user-types-and-pricing" target="_blank">Veda online pricing.</a>
-
-      <p> <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to run locally with VO.</a>
+   <p> <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to run locally with VO.</a>
