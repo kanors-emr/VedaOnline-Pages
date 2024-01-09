@@ -14,6 +14,6 @@
 
    <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/" target="_blank">VO Documentation</a> </p>
 
-   <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/introduction.html#user-types-and-pricing" target="_blank">Veda online pricing.</a>
+   <p> <a href="https://vedaonline-documentation.readthedocs.io/en/latest/pages/introduction.html#user-types-and-pricing" target="_blank">Veda online pricing</a>
 
-   <p> <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to run locally with VO.</a>
+   <p> <a href="https://youtu.be/oMY8hsCUjXI" target="_blank">How to run locally with VO</a>
